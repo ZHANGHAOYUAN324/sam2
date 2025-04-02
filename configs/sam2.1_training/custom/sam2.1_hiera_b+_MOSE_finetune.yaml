@@ -1,0 +1,7 @@
+
+
+dataset:
+  # 数据路径
+  img_folder: "data/heart_chambers/JPEGImages"
+  gt_folder: "data/heart_chambers/Annotations"
+  file_list_txt: "data/heart_chambers/train_list.txt"
